@@ -23,3 +23,13 @@ Kansas City International Airport(MCI)
 11. Turn left onto US-71 BUS N
 12. Turn right
 13. Arrive at location: Hy-Vee Grocery Store
+
+My recommendation for others to choose food items at Hyvee
+
+* Go to the Hyvee Store
+* Buy Food
+     * Rice
+     * Tender licious Chicken
+     * Lays
+     * Fruits
+* Come Home
