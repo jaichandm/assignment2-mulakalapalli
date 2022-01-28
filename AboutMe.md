@@ -1,0 +1,4 @@
+# Jaichand Mulakalapalli
+I am interested in learning new things. Currently pursuing my masters. Software engineer with a demonstrated history of working in the banking industry. Skilled in Greenplum, MySQL, shell scripting, python MS Office, English, Windows and Linux. Strong business development professional with a Bachelor of Technology focused in Electronic and Communications Engineering from Devineni Venkata Ramana & Dr. Hima Sekhar MIC College of Technology, Kanchikacherla, PIN-521180 (CC-H7).
+
+Click here to view [Chandu's Image](https://github.com/mjaichand/assignment2-mulakalapalli/blob/main/jaichand.jpeg?raw=true).
