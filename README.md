@@ -34,11 +34,11 @@ My recommendation for others to choose food items at Hyvee
      * Fruits
 * Come Home
 
- Link to the [AboutMe.md](https://github.com/mjaichand/assignment2-mulakalapalli/blob/main/AboutMe.md).
+Link to the [AboutMe.md](https://github.com/mjaichand/assignment2-mulakalapalli/blob/main/AboutMe.md).
 
- ---
+---
 
- ###### Sports Activity
+###### Sports Activity
 Below Table gives an overview for participants to choose a particular Sport/Activity based on their interest. The Name column represents the name of the sport/activity. The Location column shows the location where to participate in the sport/activity. The Equipment Fee column shows the amount of money for personal equipment.
 
 | Name | Location | Equipment Fee |
@@ -47,3 +47,13 @@ Below Table gives an overview for participants to choose a particular Sport/Acti
 | Criket | near Union Ball Room | 30$ |
 | TableTennis | opp. Horizon West | 5$ |
 | Basketball | Fitness Centre | 10$ |
+
+---
+
+###### Pithy Quotes
+
+> Take long walks in stormy weather or through deep snows in the fields and woods, if you would keep your spirits up. Deal with brute nature. Be cold and hungry and weary.
+>> -*Henry David Thoreau*
+
+> Life is like a dogsled team. If you ain't the lead dog, the scenery never changes.
+>> -*Lewis Grizzard*
